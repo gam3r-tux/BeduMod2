@@ -7,17 +7,16 @@ BEDU - HSBC
 
 Revisión del Código de mi API:
 
-[![](https://markdown-videos.deta/youtube/XNfLxWA48hQ)](https://youtu.be/XNfLxWA48hQ)
+[![](https://www.craiglarman.com/wiki/images/4/4d/Icon-video.jpg)](https://www.youtu.be/XNfLxWA48hQ)
 
-[![](https://www.craiglarman.com/wiki/images/4/4d/Icon-video.jpg)](https://www.youtube.com/watch?v=XNfLxWA48hQ)
+LOG - Bitácora
 
+[![](https://www.craiglarman.com/wiki/images/4/4d/Icon-video.jpg)](https://youtu.be/Qu0Yc2T3Ul4)
 
+Rabbit MQ - Explicación del Código
 
+[![](https://www.craiglarman.com/wiki/images/4/4d/Icon-video.jpg)](https://youtu.be/82Xzbk12-to)
 
-[![](https://www.craiglarman.com/wiki/images/4/4d/Icon-video.jpg)](https://www.youtube.com/watch?v=XNfLxWA48hQ)
+Rabbit MQ - Envío de Mensajes y Monitoreo
 
-
-[![](https://www.craiglarman.com/wiki/images/4/4d/Icon-video.jpg)](https://www.youtube.com/watch?v=XNfLxWA48hQ)
-
-
-[![](https://www.craiglarman.com/wiki/images/4/4d/Icon-video.jpg)](https://www.youtube.com/watch?v=XNfLxWA48hQ)
+[![](https://www.craiglarman.com/wiki/images/4/4d/Icon-video.jpg)](https://youtu.be/RR3JgBKyfHI)
