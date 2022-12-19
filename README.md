@@ -7,4 +7,6 @@ BEDU - HSBC
 
 Revisión del Código de mi API:
 
-{% include youtube.html id="XNfLxWA48hQ" %}
+[![Revision del código de mi API]
+(https://www.craiglarman.com/wiki/images/4/4d/Icon-video.jpg)]
+(https://www.youtube.com/watch?v=XNfLxWA48hQ)
