@@ -7,4 +7,17 @@ BEDU - HSBC
 
 Revisión del Código de mi API:
 
-[![Revision del código de mi API](https://www.craiglarman.com/wiki/images/4/4d/Icon-video.jpg)](https://www.youtube.com/watch?v=XNfLxWA48hQ)
+[![](https://markdown-videos.deta/youtube/XNfLxWA48hQ)](https://youtu.be/XNfLxWA48hQ)
+
+[![](https://www.craiglarman.com/wiki/images/4/4d/Icon-video.jpg)](https://www.youtube.com/watch?v=XNfLxWA48hQ)
+
+
+
+
+[![](https://www.craiglarman.com/wiki/images/4/4d/Icon-video.jpg)](https://www.youtube.com/watch?v=XNfLxWA48hQ)
+
+
+[![](https://www.craiglarman.com/wiki/images/4/4d/Icon-video.jpg)](https://www.youtube.com/watch?v=XNfLxWA48hQ)
+
+
+[![](https://www.craiglarman.com/wiki/images/4/4d/Icon-video.jpg)](https://www.youtube.com/watch?v=XNfLxWA48hQ)
