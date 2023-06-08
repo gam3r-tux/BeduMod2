@@ -12,7 +12,7 @@ import java.util.List;
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
-public class ProductOrder implements Serializable {
+public class UserOrder implements Serializable {
     private static final long serialVersionUID = -1138446817700416884L;
 
     @JsonProperty
@@ -25,7 +25,7 @@ public class ProductOrder implements Serializable {
     private String customerName;
     @Override
     public String toString() {
-        return "ProductOrder{" +
+        return "UserOrder{" +
                 "orderIdentifier='" + orderIdentifier + '\'' +
                 ", orderId=" + orderId +
                 ", orderList=" + orderList +

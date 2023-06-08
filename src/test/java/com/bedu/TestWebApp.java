@@ -26,10 +26,10 @@ public class TestWebApp extends SpringBootCrudOperationApplicationTests {
 
 	@Test
 	public void testEmployee() throws Exception {
-		mockMvc.perform(get("/product")).andExpect(status().isOk())
+		mockMvc.perform(get("/user")).andExpect(status().isOk())
 				.andExpect(content().contentType("application/json;charset=UTF-8"))
-				.andExpect(jsonPath("$.productname").value("cubeta")).andExpect(jsonPath("$.category").value("jarcieria"))
-				.andExpect(jsonPath("$.productid").value("1")).andExpect(jsonPath("$.price").value(50));
+				.andExpect(jsonPath("$.username").value("maria")).andExpect(jsonPath("$.lastname").value("luna"))
+				.andExpect(jsonPath("$.userid").value("1")).andExpect(jsonPath("$.age").value(25));
 
 	}
 

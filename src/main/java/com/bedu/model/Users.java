@@ -13,16 +13,16 @@ import lombok.Setter;
 @Entity
 //defining class name as Table name
 @Table
-public class Products
+public class Users
 {
     //Defining book id as primary key
     @Id
     @Column
-    private int productid;
+    private int userid;
     @Column
-    private String productname;
+    private String username;
     @Column
-    private String category;
+    private String lastname;
     @Column
-    private int price;
+    private int age;
 }
